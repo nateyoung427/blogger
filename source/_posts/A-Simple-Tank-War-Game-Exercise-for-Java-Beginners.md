@@ -6,7 +6,7 @@ categories: Projects
 keywords: Tank War, Java Beginners
 ---
 
-I've just published a mid-term project for a small group of students. If you are a Java beginner who is seeking some challenge to conquer, I believe this [Tank War](https://github.com/nateyoung427/tankwar) game would be fit for you. Wanna a try?😄
+I've just published a mid-term project for a small group of students. If you are a Java beginner who is seeking some challenge to conquer, I believe this [Tank War](https://github.com/nateyoung427/tankwar) game would be fit for you. Wanna a try?😄 Solution for your reference will be released after 3 weeks.
 
 ![](../images/tank-war.jpg)<!-- more -->
 
