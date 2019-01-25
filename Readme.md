@@ -12,6 +12,7 @@ hexo new page categories
 After that you may customize `index.md` under each directory, for `tags` and `categories`, please add `type: "tags"` or `type: "cateogries"`
 * Create a `CNAME` file under `source` folder and add purchased domain name there, for example: www.javaneversleep.com
 * To avoid user permission issue in Ubuntu, use `nvm` to install nodejs and then `npm install hexo-cli -g`
+* For disqus, the `shortname` is not that of user name in profile, but the Sites you created in Admin panel, fail to do this will prevent disqus comments area to display correctly
 
 ## Dependencies
 * local search: `npm install hexo-generator-searchdb --save`

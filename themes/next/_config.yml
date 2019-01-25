@@ -520,7 +520,7 @@ pangu: false
 # Disqus
 disqus:
   enable: true
-  shortname: ny83427
+  shortname: JavaNeverSleep
   count: true
   lazyload: false
 
