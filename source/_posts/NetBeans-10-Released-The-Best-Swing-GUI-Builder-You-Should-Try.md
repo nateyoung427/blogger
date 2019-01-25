@@ -2,7 +2,7 @@
 title: 'NetBeans 10 Released: The Best Swing GUI Builder You Should Try'
 date: 2018-12-29 09:14:57
 tags: NetBeans
-categories: Code
+categories: Tools
 keywords: NetBeans, CoolBeans, IDE, Eclipse, IDEA, Swing, GUI Builder
 ---
 
