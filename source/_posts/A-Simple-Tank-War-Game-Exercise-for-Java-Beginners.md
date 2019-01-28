@@ -8,7 +8,7 @@ keywords: Tank War, Java Beginners
 
 I've just published a mid-term project for a small group of students. If you are a Java beginner who is seeking some challenge to conquer, I believe this [Tank War](https://github.com/nateyoung427/tankwar) game would be fit for you. Wanna a try?😄 Solution for your reference will be released after 3 weeks.
 
-![](../images/tank-war.jpg)<!-- more -->
+![](https://www.dropbox.com/s/h7lb40jzzkcskun/tank-war.jpg?dl=1)<!-- more -->
 
 I wrote my first line of Java code, the famous "Hello World" at 26. It was 2009 and life is really tough for me, all my hope is to finish the coding camp program as soon as possible and start working as a programmer to earn some livings. This little game was the final project of JavaSE course and I just cannot figure out it myself, only by following the instructor's patient explanations I can catch up with what he is actually doing at that time. I don't remember how many hours I spent on this little, stupid, and boring game, but I would never forget this painful experience.
 
@@ -16,7 +16,7 @@ And this time, when I told the students that they need to finish this in 3 weeks
 
 One would easily choose "Game Over", and rarely press F2 to restart.
 
-![](../images/game-over.jpg)
+![](https://www.dropbox.com/s/z1gars1msdvmsug/game-over.jpg?dl=1)
 
 At that time, I was upset, depressed and anxious, but with patience and sweat, I finally finished the 3 months program and fortunately found a job to begin my career as a programmer. 10 years later, it has been very clear to me that I don't have much talent in this area, but it doesn't mean that I cannot leverage my skills to make a difference and help others - which I've actually done these years.
 

@@ -9,7 +9,7 @@ keywords: Jsoup, Code Review, Optimization, Tips and Tricks, Performance
 
 We have done things right, now it's time to do things faster. We would keep [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)'s warning in mind, "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil".
 
-![](../images/racing-horse.jpg)<!-- more -->
+![](https://www.dropbox.com/s/0773b7bsya9ph9i/racing-horse.jpg?dl=1)<!-- more -->
 
 According to Jonathan Hedley, he uses [YourKit Java Profiler](https://www.yourkit.com/java/profiler/) to measure memory usage and find the performance hot point. Using statistic result of such kind of tools is crucial for the success of optimizations, it will prevent you spend time just wondering and making useless tunings, which doesn't improve performance but also make your code unnecessarily complex and hard to maintain. Jonathan also talked about this in the ["Colophon"](https://jsoup.org/colophon).
 

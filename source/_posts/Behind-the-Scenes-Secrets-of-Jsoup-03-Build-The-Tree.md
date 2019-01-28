@@ -9,7 +9,7 @@ keywords: Jsoup, Code Review, Github, State Machine, State Pattern
 
 Ready? The challenging task finally came. We will build a tree this time so that you don't have to traverse before it was built.😅`TreeBuilder` has two implementations, `XmlTreeBuilder` is relatively easy while `HtmlTreeBuilder` is much more complex. And we will go through them today.
 
-![](../images/build-tree.jpg)<!-- more -->
+![](https://www.dropbox.com/s/lomj0ikzg2es1j4/build-tree.jpg?dl=1)<!-- more -->
 
 ### Overview of Package
 

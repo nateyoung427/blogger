@@ -8,7 +8,7 @@ keywords: Refactoring,2nd Edition,Martin Fowler
 
 "Refactoring: Improving the Design of Existing Code", the 2nd edition is available now! I read the first edition in 2009 for the first time. It significantly shaped my coding habit, which also made me promoted as the team leader in less than one year - I will tell you why later. After nearly 20 years this book was revised, enhanced, refactored and released. Trust me, you **SHALL NEVER** miss this masterpiece.
 
-<a href="https://amzn.to/2QviuLh"><img src="../images/refact2.jpg" /></a><!-- more -->
+<a href="https://amzn.to/2QviuLh"><img src="https://www.dropbox.com/s/dbrkjhh7toukisc/refact2.jpg?dl=1" /></a><!-- more -->
 
 Martin Fowler introduced a term called "Bad Smells" in this book and provides corresponding refactorings to resolve them. The methodology of unit test is a must for successful refactoring, as many programmers misunderstood at this part. They knew bad code smells and determined to remove them and they kept changing, but they didn't perform unit test to make this process reliable and trustable. They usually gave up finally, and the complex, messy legacy code laughed at them in pride loudly.
 

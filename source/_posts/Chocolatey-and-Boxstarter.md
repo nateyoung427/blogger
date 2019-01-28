@@ -11,7 +11,7 @@ How many times have you googled "jdk download windows", then download, click, cl
 ```shell
 cinst jdk8 jdk11 git intellijidea-community vscode nodejs everything f.lux -y
 ```
-![](../images/trick.jpg)<!-- more -->
+![](https://www.dropbox.com/s/pjs91dzyrhvf69k/trick.jpg?dl=1)<!-- more -->
 
 Install Chocolatey is super easy. Simply follow the [instructions](https://chocolatey.org/install) will do. Me usually choose the first option "install with cmd.exe(Run as Administrator)", you just need to execute the command in the below, and you will get the Windows version **apt-get**:
 ```shell

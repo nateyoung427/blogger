@@ -8,7 +8,7 @@ keywords: IDEA,Java,Refactoring,Unit Test
 
 Yes, you can write short, clean Java code following 7 tips introduced in this article. Some of them might make you surprised, but trust me, they are proved practices - at least by me.
 
-![](../images/java.jpg)<!-- more -->
+![](https://www.dropbox.com/s/33nxcko1b69lcpp/java.jpg?dl=1)<!-- more -->
 
 ### 1. Use [IntelliJ IDEA](https://www.jetbrains.com/idea/) as your IDE
 I've been using eclipse for 6 years and NetBeans for 3 years. I still use them sometimes, but most of the time I use IDEA only. I don't want to start the holy war of IDEs here, but just want to tell you IDEA will remind you writing shorter, better, cleaner code based on its integrated best practices. You just press ALT+Enter and it will do the job for you, most of the time IDEA give smart and practical advice, you can also learn much new stuff from them.

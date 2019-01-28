@@ -8,7 +8,7 @@ keywords: Fibonacci, BigInteger, Java, Never Sleep
 
 No matter what programming language you are learning, Fibonacci numbers calculation is just too classic to skip. It seems very easy to implement, but also can be deep enough to catch up with, especially when the number is super big. Have you thought that ever before?
 
-![](../images/rabbit.jpg)<!-- more -->
+![](https://www.dropbox.com/s/q88dhrsyh1q4q4i/rabbit.jpg?dl=1)<!-- more -->
 
 It can be super easy to implement using recursion in just one line of code, even using Java.😅
 

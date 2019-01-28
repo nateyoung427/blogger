@@ -9,7 +9,7 @@ keywords: Jsoup, Code Review, Parser, Github
 
 [Jsoup](https://github.com/jhy/jsoup/) would probably be the most popular "working with real-world HTML" library in the Java community. I've been using it for web crawler stuff since _1.7.3_(latest release is _1.11.3_), but a little bit surprised to see that there is little introduction or analysis regarding its source code and implementations.
 
-![](../images/jsoup.jpg)<!-- more -->
+![](https://www.dropbox.com/s/ueo3ej917f12hu1/jsoup.jpg?dl=1)<!-- more -->
 
 Since I will use Jsoup as an example for [OOP course(SE500)](http://oit.olivetuniversity.edu/academics/macourses.htm) I would teach at [Olivet Institute of Technology](http://oit.olivetuniversity.edu/) from Jan 2019, I tried to summarize the most important ideas behind-the-scene so that at least I know what I will talk about.😅These series were inspired from [jsoup-learning](https://github.com/code4craft/jsoup-learning) and reused some graphs from it. Many thanks for [Yihua Huang](https://github.com/code4craft)'s digging into this beautiful library.
 

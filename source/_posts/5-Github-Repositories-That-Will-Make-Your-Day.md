@@ -7,7 +7,8 @@ keywords: Github,Make My Day,NoCode
 ---
 
 If by life you were deceived, don't be dismal, don't be wild! Access these GitHub repositories, they will make your day definitely!
-![](../images/laugh.jpg)<!-- more -->
+
+![](https://www.dropbox.com/s/z6slcmj3ze5xyz5/laugh.jpg?dl=1)<!-- more -->
 
 ### #1 [nocode](https://github.com/kelseyhightower/nocode)
 ![](https://www.dropbox.com/s/7t5vulrsy5x9iz4/nocode.png?dl=1)

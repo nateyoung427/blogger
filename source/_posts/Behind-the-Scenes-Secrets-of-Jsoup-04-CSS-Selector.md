@@ -9,7 +9,7 @@ keywords: Jsoup, Code Review, Parser, Github, CSS Selector
 
 Most of the time, you are just consuming the `Document` Jsoup built for you, like `document.select(${selector})`. It would be helpful to go through [W3C CSS Selector Specification](https://www.w3.org/TR/CSS2/selector.html) to understand Jsoup's roadmap. We have talked about Node Traverse before, what `Selector` will actually do is just filtering and collecting while traversing, and the key point here will be parsing and evaluating given queries.
 
-![](../images/make-coffee.jpg)<!-- more -->
+![](https://www.dropbox.com/s/819qqsi6sr9kjhc/make-coffee.jpg?dl=1)<!-- more -->
 
 ### Overview of Package
 
