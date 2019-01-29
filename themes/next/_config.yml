@@ -604,14 +604,14 @@ needmoreshare2:
       iconStyle: box
       boxForm: horizontal
       position: bottomCenter
-      networks: Twitter,Facebook,Linkedin,Reddit
+      networks: Twitter,Facebook,Linkedin,Reddit,Pinterest,GooglePlus
   float:
     enable: true
     options:
       iconStyle: box
       boxForm: horizontal
       position: middleRight
-      networks: Twitter,Facebook,Linkedin,Reddit
+      networks: Twitter,Facebook,Linkedin,Reddit,Pinterest,GooglePlus
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters
