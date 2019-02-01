@@ -276,3 +276,5 @@ InHead {
 As the State Pattern implementation needs to handle many different kinds of cases, one can be easily lost while reading the source code. Understanding the concept and general ideas first will be of help while debugging the code to know what Jsoup is doing, but still, it's not easy and would hurt your brain😭
 
 **-To Be Continued-**
+
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=books&banner=0GDEZK2MM2XGCEH7M202&f=ifr&linkID=f49148e08b4bc8e9cc3a88640a5e74a3&t=javaneversleep-20&tracking_id=javaneversleep-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>

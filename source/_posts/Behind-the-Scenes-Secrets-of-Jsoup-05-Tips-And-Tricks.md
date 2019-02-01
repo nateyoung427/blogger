@@ -189,3 +189,5 @@ Actually, [`CharacterReader`](https://github.com/jhy/jsoup/blob/master/src/main/
 Optimization never ends. There are still many tips and tricks I didn't discover at this time. I would appreciate if you can share them to me if you find more inspiring ideas in Jsoup. You may find my contact information in the left sidebar of this website or simply email to `ny83427 at gmail.com`.
 
 **-To Be Continued-**
+
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=books&banner=0HX1M2P8DDZ20D689R82&f=ifr&linkID=61f529dfb8b35107c92efc29a2c3c8dc&t=javaneversleep-20&tracking_id=javaneversleep-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
