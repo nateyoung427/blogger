@@ -20,8 +20,9 @@ After that you may customize `index.md` under each directory, for `tags` and `ca
 * sitemap generator: `npm install hexo-generator-sitemap --save`
 * hexo deploy: `npm install hexo-deployer-git --save`
 * related posts: `npm install hexo-related-popular-posts --save`
-* needmoreshare:
+* needmoreshare and fancybox:
     ```bash
     cd themes\next
     git clone https://github.com/theme-next/theme-next-needmoreshare2 source/lib/needsharebutton
+    git clone https://github.com/theme-next/theme-next-fancybox3 source/lib/fancybox
     ```
