@@ -12,7 +12,7 @@ Honestly speaking, there is no need to post an article on the topic "Top 10 Book
 
 ## No.1 MOOC By University of Helsinki
 
-Yes, I'm joking and I'm not joking. From my own experience, I don't think it's the most efficient way to read a book systematically when you are pure beginners - especially those never write code before. What you need to do is to understand the basic concepts quickly first, then **JUST DO IT!** Keep practicing, keep practicing and keep practicing.
+Yes, I'm joking and I'm not joking. From my own experience, I don't think it's the most efficient way to read a book systematically when you are pure beginners - especially if you never write code before. What you need to do is to understand the basic concepts quickly first, then **JUST DO IT!** Keep practicing, keep practicing and keep practicing.
 
 <a target="_blank" href="https://www.amazon.com/NIKE-Sportswear-Swoosh-Varsity-Medium/dp/B00TFAEPRA/ref=as_li_ss_il?ie=UTF8&qid=1549036398&sr=8-1&keywords=Just+do+it&linkCode=li3&tag=javaneversleep-20&linkId=a45c1168c1454889779b81a6c9304ada&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFAEPRA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=javaneversleep-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&language=en_US&l=li3&o=1&a=B00TFAEPRA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -34,7 +34,7 @@ After you get your hands dirty for a long time and write enough code like shit, 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/0134757599/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134757599&linkCode=as2&tag=javaneversleep-20&linkId=89250f6bdc5dbc4ec626099edabefb8d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0134757599&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=javaneversleep-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&l=am2&o=1&a=0134757599" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-I always recommend this book to other programmers, as it had a great impact on my career. I was promoted to Team Leader in my first company because I finished refactoring against a module nobody wants to do - too painful and too brain-hurt. I found this book by change in the bookshelf one afternoon, and I'm addicted to it and I just finished reading this book very quickly and used several methods there, and from that time one I began to write fully covered unit tests for my code, which made my life and our colleagues' life much easier.
+I always recommend this book to other programmers, as it had a great impact on my career. I was promoted to Team Leader in my first company because I finished refactoring against a module nobody wants to do - too painful and too brain-hurt. I found this book by chance in the bookshelf one afternoon, and I'm addicted to it and I just finished reading this book very quickly and used several methods there, and from that time on I began to write fully covered unit tests for my code, which made my life and our colleagues' life much easier.
 
 ## No.3 Effective Java
 
