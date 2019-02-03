@@ -182,11 +182,11 @@ social:
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   Twitter: https://twitter.com/ny83427 || twitter
-  FB Page: https://www.facebook.com/JavaNeverSleep/ || facebook
+  # FB Page: https://www.facebook.com/Java-Never-Sleep-302515250619982/ || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  Instagram: https://instagram.com/nateyoung427 || instagram
+  # Instagram: https://instagram.com/nateyoung427 || instagram
   # Skype: skype:live:ny83427?call|chat || skype
 
 social_icons:
@@ -202,11 +202,13 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: Links & Resources
 links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com
+# links_layout: inline
+links:
+  Old Young Boys Club: https:www.oldyoungboys.club
+  MOOC OOP Java Part1: https://materiaalit.github.io/2013-oo-programming/part1/week-1/
+  MOOC OOP Java Part2: https://materiaalit.github.io/2013-oo-programming/part2/week-7/
 
 # Sidebar Avatar
 avatar:
