@@ -1,5 +1,5 @@
 ---
-title: 'Yet Another Top 10 Books For Java Learners - Part I'
+title: 'Yet Another 10 Books For Java Learners - Part I'
 date: 2019-02-01 07:39:27
 tags: Awesome Books
 categories: Great Books
