@@ -61,7 +61,12 @@
         {{ partial('_partials/footer.swig', {}, {cache: theme.cache.enable}) }}
         {% include '_third-party/analytics/analytics-with-widget.swig' %}
         {% block footer %}{% endblock %}
-      </div>
+        <span>
+          <a href="https://www.javacodegeeks.com/">
+          <img title="Java Code Geeks" src="https://cdn.javacodegeeks.com/wp-content/uploads/2012/12/JavaCodeGeek_Badge.png" alt="Java Code Geeks"/>
+          </a>
+        </span>
+      </div>      
     </footer>
 
     {% if not theme.sidebar.b2t %}
