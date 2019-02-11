@@ -26,3 +26,4 @@ After that you may customize `index.md` under each directory, for `tags` and `ca
     git clone https://github.com/theme-next/theme-next-needmoreshare2 source/lib/needsharebutton
     git clone https://github.com/theme-next/theme-next-fancybox3 source/lib/fancybox
     ```
+* rss: `npm install hexo-generator-feed --save`

@@ -134,7 +134,7 @@ import java.io.*;
 import java.util.*;
 
 class HelloWorld {
-	public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         PrintStream orig = System.out;
 
         ByteArrayOutputStream os = new ByteArrayOutputStream();
@@ -165,7 +165,7 @@ class HelloWorld {
         scanner = new Scanner(System.in);
         // Hang on here since `in` was restored
         System.out.println(scanner.nextLine());
-	}
+    }
 }
 ```
 
