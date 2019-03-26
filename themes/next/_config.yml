@@ -523,7 +523,7 @@ pangu: false
 disqus:
   enable: true
   shortname: JavaNeverSleep
-  count: true
+  count: false
   lazyload: false
 
 # changyan
