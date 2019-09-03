@@ -56,4 +56,6 @@ There are many other good books, but I don't want to pretend that I know all of 
 
 Happy Reading and Happy Coding!
 
+PS: ["Best Way to Learn Java Programming Online"](https://www.javacodegeeks.com/learn-java-programming-online.html) is a great article from Nataly Evagorou of [Java Code Geeks](https://www.javacodegeeks.com/). I put it here for your reference and hope you guys enjoy it.
+
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=books&banner=0HX1M2P8DDZ20D689R82&f=ifr&linkID=01919cf4a8b6a34712b260e3e75d5b48&t=javaneversleep-20&tracking_id=javaneversleep-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>

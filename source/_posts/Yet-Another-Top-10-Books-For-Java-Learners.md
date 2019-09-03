@@ -14,7 +14,7 @@ Honestly speaking, there is no need to post an article on the topic "Top 10 Book
 
 Yes, I'm joking and I'm not joking. From my own experience, I don't think it's the most efficient way to read a book systematically when you are pure beginners - especially if you never write code before. What you need to do is to understand the basic concepts quickly first, then **JUST DO IT!** Keep practicing, keep practicing and keep practicing.
 
-<a target="_blank" href="https://www.amazon.com/NIKE-Sportswear-Swoosh-Varsity-Medium/dp/B00TFAEPRA/ref=as_li_ss_il?ie=UTF8&qid=1549036398&sr=8-1&keywords=Just+do+it&linkCode=li3&tag=javaneversleep-20&linkId=a45c1168c1454889779b81a6c9304ada&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFAEPRA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=javaneversleep-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&language=en_US&l=li3&o=1&a=B00TFAEPRA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.com/NIKE-Sportswear-Swoosh-Varsity-Medium/dp/B00TFAEPRA/ref=as_li_ss_il?keywords=JUST+DO+IT&qid=1567544203&s=gateway&sr=8-3&linkCode=li3&tag=javaneversleep-20&linkId=bffa1eed3eca14ed4620988ea55a9014" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TFAEPRA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=javaneversleep-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&l=li3&o=1&a=B00TFAEPRA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Object-Oriented Programming with Java [Part I](https://materiaalit.github.io/2013-oo-programming/part1/week-1/) and [Part II](https://materiaalit.github.io/2013-oo-programming/part2/week-7/). Register an account at [Test My Code](https://tmc.mooc.fi/user/new). Finish all the exercises there. Post a screenshot to prove you really did it. That's all.
 
@@ -26,7 +26,7 @@ Wait...but this is obviously not a book, right?
 
 Yeah, right, but so what? For beginners, this would be the best resource for a quick start and get your hands dirty. Talk is cheap, show me the code!
 
-<a target="_blank" href="https://www.amazon.com/gp/product/B01FOTSHLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FOTSHLA&linkCode=as2&tag=javaneversleep-20&linkId=314168ef8b7dd05181532e41f8c561dc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FOTSHLA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=javaneversleep-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&l=am2&o=1&a=B01FOTSHLA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.com/cheap-programming-developer-Pullover-Hoodie/dp/B07V7LVDMT/ref=as_li_ss_il?keywords=show+me+the+code&qid=1567544365&s=gateway&sr=8-5&linkCode=li3&tag=javaneversleep-20&linkId=e83252c46a8cf7de9c2489df7111fb1d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07V7LVDMT&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=javaneversleep-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&l=li3&o=1&a=B07V7LVDMT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## No.2 Refactoring: Improving the Design of Existing Code
 
@@ -55,6 +55,8 @@ Life is short and I don't want to waste too much time arguing which book is bett
 [Clean Code](https://amzn.to/2WCDZKn) by Uncle Bob, IMHO, is not that practical and useful to me compared to the books listed above. But it's a good summary and provides more information which can enhance you still, besides that, this book is very interesting and it's a joyful read. When Uncle Bob said that he "turned on his old TV and tried to watch some scaring movies, but there is not even one ghost there. Sh.t!", I just laughed to the ground. Anyway, for those who really care about quality, cleanness of your code, this book is a must-read.
 
 <a target="_blank"  href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_il?ie=UTF8&qid=1549038518&sr=8-1&keywords=clean+code&linkCode=li3&tag=javaneversleep-20&linkId=586746e3093661bce05cf7b585646c25&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0132350882&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=javaneversleep-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&language=en_US&l=li3&o=1&a=0132350882" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+PS: ["Best Way to Learn Java Programming Online"](https://www.javacodegeeks.com/learn-java-programming-online.html) is a great article from Nataly Evagorou of [Java Code Geeks](https://www.javacodegeeks.com/). I put it here for your reference and hope you guys enjoy it.
 
 **-To Be Continued-**
 
