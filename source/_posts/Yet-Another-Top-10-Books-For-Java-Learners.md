@@ -56,7 +56,7 @@ Life is short and I don't want to waste too much time arguing which book is bett
 
 <a target="_blank"  href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_il?ie=UTF8&qid=1549038518&sr=8-1&keywords=clean+code&linkCode=li3&tag=javaneversleep-20&linkId=586746e3093661bce05cf7b585646c25&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0132350882&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=javaneversleep-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=javaneversleep-20&language=en_US&l=li3&o=1&a=0132350882" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-PS: ["Best Way to Learn Java Programming Online"](https://www.javacodegeeks.com/learn-java-programming-online.html) is a great article from Nataly Evagorou of [Java Code Geeks](https://www.javacodegeeks.com/). I put it here for your reference and hope you guys enjoy it.
+PS: ["Best Way to Learn Java Programming Online"](https://www.javacodegeeks.com/learn-java-programming-online.html) is a great article from Lefteris Karageorgiou of [Java Code Geeks](https://www.javacodegeeks.com/). I put it here for your reference and hope you guys enjoy it.
 
 **-To Be Continued-**
 
