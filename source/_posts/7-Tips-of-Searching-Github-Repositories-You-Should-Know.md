@@ -8,7 +8,7 @@ keywords: GitHub, Search, Tips
 
 You search on Google every day, and as a programmer, you would probably search on GitHub every day. Are you sure you know how to search GitHub repositories effectively? Let's check out these 7 tips you probably didn't know.
 
-![](../images/github-logo.png)<!-- more -->
+![](https://www.dropbox.com/s/o6tae0ggy5hwqql/github-logo.png?dl=1)<!-- more -->
 
 ### 1. In Name, In Description, and In README
 
