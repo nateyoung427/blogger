@@ -52,6 +52,8 @@ I've found these 7 tips useful to me in the past years and I hope it will also h
 
 **PS:** This article was approved and published at [DZone](https://dzone.com/) on Dec 17, 2018 with slight changes from the Editor. [Click to Read](https://dzone.com/articles/7-tips-to-write-better-java-code-you-should-know-1)
 
+Zachary Goldberg, a former engineering lead at Google and Entrepreneur in Residence at Tencent, wrote a great article "[**The Six Commandments of Good Code: Write Code That Stands the Test of Time**](https://www.toptal.com/software/six-commandments-of-good-code)", which is really worthy to read.
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
