@@ -6,9 +6,9 @@ tags: Udemy
 keywords: Udemy, Java, 放码过来, 坦克大战, IDEA, MAVEN, 持续构建
 ---
 
-一个项目，整合Java企业级开发必须技能：选型考量、开发工具（IDEA）、版本管理（GIT）、持续构建（CI）、单元测试（JUNIT）、重构（Refactoring）、设计模式（Design Pattern）、并发编程...一个都不能少。全面超越老版尚学堂坦克大战！您可以通过限量折扣码[**CSDNDEMO**](https://www.udemy.com/java-tank-war/?couponCode=CSDNDEMO)免费获取完整课程内容，或通过折扣码[**JAVA-NEVER-SLEEP**](https://www.udemy.com/java-tank-war/?couponCode=JAVA-NEVER-SLEEP)享受两折优惠。
+一个项目，整合Java企业级开发必须技能：选型考量、开发工具（IDEA）、版本管理（GIT）、持续构建（CI）、单元测试（JUNIT）、重构（Refactoring）、设计模式（Design Pattern）、并发编程...一个都不能少。全面超越老版尚学堂坦克大战！您可以通过限量折扣码[**FREE-MAR20**](https://www.udemy.com/course/java-tank-war/?couponCode=FREE-MAR20)免费获取完整课程内容，或通过折扣码[**JAVANEVERSLEEP-MAR20**](https://www.udemy.com/course/java-tank-war/?couponCode=JAVANEVERSLEEP-MAR20)享受七折优惠。
 
-[![](https://www.dropbox.com/s/c40u990645zw8lx/Show_Me_The_Code.jpg?dl=1)](https://www.udemy.com/java-tank-war/?couponCode=JAVA-NEVER-SLEEP)<!-- more -->
+[![](https://www.dropbox.com/s/c40u990645zw8lx/Show_Me_The_Code.jpg?dl=1)](https://www.udemy.com/course/java-tank-war/?couponCode=JAVANEVERSLEEP-MAR20)<!-- more -->
 
 通过本课程您可以学习、了解：
 - Java开发业界最佳实践
