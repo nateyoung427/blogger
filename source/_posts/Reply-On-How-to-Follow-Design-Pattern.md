@@ -9,9 +9,9 @@ categories: Udemy教程
 keywords: Udemy,坦克大战,设计模式,Design Pattern
 ---
 
-去年在Udemy上发了两门课，算是了却了一桩心事，当然，也多出来N桩心事——时不时有学员就“[放码过来！作个Java实战派](https://www.udemy.com/course/java-warrior-part1/?referralCode=5777839AB585A9602DFE)”、“[放码过来！新版Java坦克大战](https://www.udemy.com/course/java-tank-war/?couponCode=JAVANEVERSLEEP-MAR20)”提问，目前为止，所有提问我都按承诺24小时内回复——当然，通常是几小时内就回复。但是，一位学员来信提到的下面这个问题，我却首次破例了😔
+去年在Udemy上发了两门课，算是了却了一桩心事，当然，也多出来N桩心事——时不时有学员就“[放码过来！作个Java实战派](https://www.udemy.com/course/java-warrior-part1/?referralCode=5777839AB585A9602DFE)”、“[放码过来！新版Java坦克大战](https://www.udemy.com/course/java-tank-war/?couponCode=JAVANEVERSLEEP-MAY)”提问，目前为止，所有提问我都按承诺24小时内回复——当然，通常是几小时内就回复。但是，一位学员来信提到的下面这个问题，我却首次破例了😔
 
-[![](/img/udemy-tankwar.jpg)](https://www.udemy.com/course/java-tank-war/?couponCode=JAVANEVERSLEEP-MAR20)<!-- more -->
+[![](/img/udemy-tankwar.jpg)](https://www.udemy.com/course/java-tank-war/?couponCode=JAVANEVERSLEEP-MAY)<!-- more -->
 
 这位台湾小帅哥问的是什么呢？
 
